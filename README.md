@@ -3,4 +3,4 @@
 系級：地理碩二
 
 Week1_Assignment：利用numpy & matplotlib繪製阿基米德螺線，方法詳如註解。  
-Week2_Assignment：
+Week2_Assignment：反覆嘗試調整神經網路運算參數，最後設計4層(256,128,32,10)，learning_rate設定為0.05，每64層調整一次，運算20次。能夠最有效率達到一定的準確率，且實際測試符合準確率 (在調整時常有準確率高，但實際測試常錯誤的情形)
